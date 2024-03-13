@@ -18,7 +18,7 @@
  * 단지별로 카톡방이 따로 있는 이유
    - 8개 단지별 소유주 카톡방이며, 단지별 소유주끼리 우선 모이는게 중요하다고 판단함.
    - 8개 단지별 소유주 카톡방을 홍보하기 위한 안내문 작성함. (인쇄 버전은 세대 별 인쇄 후, 세대 별 문 앞에 부착할 계획.)
-     - 인쇄 버전: https://m.site.naver.com/1kfOQ
+     - 인쇄 버전: https://m.site.naver.com/1kgC3
      - 웹 버전: https://jeongdeunvillage.github.io/QR-for-Promo/ 
 
  * 기타 진행사항

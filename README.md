@@ -8,8 +8,8 @@
 
  * 간담회 준비
    - 장소 관련: 처음에 학교 및 교회 등을 대관하려 했으나 거절 당하고, 전원마을의 카페(카페써밋)을 대관함
-   - 비용 관련: 대관 비용이 발생(22만원) → 자발적 후원으로 (240401 기준) 95만원 후원받음 (입출금 관련 정리: https://docs.google.com/spreadsheets/d/1tvdELttk8pUE-P3_Lp48-5zanfc5uWR3_a7A-0QmGEg/edit#gid=0)
-   - 오프라인 참석자 명단: 현재 총 65명 (https://docs.google.com/spreadsheets/d/1Me8X7uTApXMgREp2uBvR8JrdfXmIdxYUwh1NgI0gcEo/edit#gid=0)
+   - 비용 관련: 대관 비용이 발생(22만원) → 자발적 후원으로 (240401 기준) 95만원 후원받음 ([입출금 관련 정리](https://docs.google.com/spreadsheets/d/1tvdELttk8pUE-P3_Lp48-5zanfc5uWR3_a7A-0QmGEg/edit#gid=0))
+   - [오프라인 참석자 명단](https://docs.google.com/spreadsheets/d/1Me8X7uTApXMgREp2uBvR8JrdfXmIdxYUwh1NgI0gcEo/edit#gid=0)
    - 온라인 영상 송출: 한정된 장소로 인해 참석이 어려운 소유주를 위해 줌으로도 송출할 계획(방송 장비 상황 상 현장만큼 전달력은 조금 떨어질 수 있음, 최대한 잘 전달되게 해보겠음)
    - 단지별 입대의 컨택
    - 간담회 및 단체 카톡방 홍보를 위한 현수막 게시(관리소 허가를 받은 일부 단지)
@@ -31,8 +31,8 @@
    - 단지별로 카톡방이 따로 있는 이유
      - 8개 단지별 소유주 카톡방이며, 단지별 소유주끼리 우선 모이는게 중요하다고 판단함.
      - 8개 단지별 소유주 카톡방을 홍보하기 위한 안내문 작성함.
-       - 인쇄 버전: https://m.site.naver.com/1kgC3
-       - 웹 버전: https://jeongdeunvillage.github.io/QR-for-Promo/ 
+       - [인쇄 버전](https://m.site.naver.com/1kgC3)
+       - [웹 버전](https://jeongdeunvillage.github.io/QR-for-Promo/)
    - 단지별 온라인 동의서
      - 동아 1단지: 
      - 동아 2단지: 

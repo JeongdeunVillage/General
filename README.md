@@ -18,7 +18,7 @@
 
  * 간담회 진행
    - 설명자료: [주민 간담회_배포용.pdf](https://github.com/JeongdeunVillage/General/files/14818659/_.pdf)
-   - 원본영상: 유투브 링크 업데이트 예정
+   - 원본영상: [유투브 링크](https://youtu.be/aQRJFZuDe4k?si=B0y7RjPi9ao7bfeW)
    - 질의응답 정리 (요약 및 원본): [주민간담회_질의응답 정리.pdf](https://github.com/JeongdeunVillage/General/files/14818661/_.pdf)
    - 간담회 사진
      - ![KakaoTalk_20240401_111258448](https://github.com/JeongdeunVillage/General/assets/162940027/95774b86-dd99-45dc-abe1-dfa5e990e072)

@@ -8,7 +8,7 @@
 
  * 간담회 준비
    - 장소 관련: 처음에 학교 및 교회 등을 대관하려 했으나 거절 당하고, 전원마을의 카페(카페써밋)을 대관함
-   - 비용 관련: 대관 비용이 발생(22만원) → 자발적 후원으로 (240401 기준) 95만원 후원받음 ([입출금 관련 정리](https://docs.google.com/spreadsheets/d/1tvdELttk8pUE-P3_Lp48-5zanfc5uWR3_a7A-0QmGEg/edit#gid=0))
+   - 비용 관련: 대관 비용이 발생(22만원) → 자발적 후원으로 (240401 기준) 95만원 후원받음 ([후원금 입출금 관련 정리](https://docs.google.com/spreadsheets/d/1tvdELttk8pUE-P3_Lp48-5zanfc5uWR3_a7A-0QmGEg/edit#gid=0))
    - [오프라인 참석자 명단](https://docs.google.com/spreadsheets/d/1Me8X7uTApXMgREp2uBvR8JrdfXmIdxYUwh1NgI0gcEo/edit#gid=0)
    - 온라인 영상 송출: 한정된 장소로 인해 참석이 어려운 소유주를 위해 줌으로도 송출할 계획(방송 장비 상황 상 현장만큼 전달력은 조금 떨어질 수 있음, 최대한 잘 전달되게 해보겠음)
    - 단지별 입대의 컨택

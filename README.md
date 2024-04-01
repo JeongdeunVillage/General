@@ -1,4 +1,4 @@
-# 간담회 관련 (Updated. 240327)
+# 정든마을 재건축 추진을 위한 주민 간담회 관련사항 정리 (Updated. 240401)
 
  * 개요
    - 일시: 2024년 3월 30일 토요일 오후 3시
@@ -16,7 +16,10 @@
      - ![KakaoTalk_20240401_111356856](https://github.com/JeongdeunVillage/General/assets/162940027/4f167326-d3c3-4da9-9e39-b3060d6bc861)
      - ![KakaoTalk_20240401_111356856_01](https://github.com/JeongdeunVillage/General/assets/162940027/892d3f59-0e09-40e5-9137-eae216f5950a)
 
- * 간담회 준비
+ * 간담회 진행
+   - 설명자료: [주민 간담회_배포용.pdf](https://github.com/JeongdeunVillage/General/files/14818659/_.pdf)
+   - 원본영상: 유투브 링크 업데이트 예정
+   - 질의응답 정리 (요약 및 원본): [주민간담회_질의응답 정리.pdf](https://github.com/JeongdeunVillage/General/files/14818661/_.pdf)
 
  * 기타
    - 재건축에서 중요한 사항

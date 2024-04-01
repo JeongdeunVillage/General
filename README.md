@@ -21,8 +21,8 @@
    - 원본영상: 유투브 링크 업데이트 예정
    - 질의응답 정리 (요약 및 원본): [주민간담회_질의응답 정리.pdf](https://github.com/JeongdeunVillage/General/files/14818661/_.pdf)
    - 간담회 사진
-     - ![KakaoTalk_20240401_111356856](https://github.com/JeongdeunVillage/General/assets/162940027/0a7b6ccf-ce40-44b8-a420-f09c51277b15)
-     - ![KakaoTalk_20240401_111356856_01](https://github.com/JeongdeunVillage/General/assets/162940027/5a581932-a5e7-4ab5-8c4f-2597c60eea21)
+     - ![KakaoTalk_20240401_111258448](https://github.com/JeongdeunVillage/General/assets/162940027/95774b86-dd99-45dc-abe1-dfa5e990e072)
+     - ![KakaoTalk_20240401_111258448_01](https://github.com/JeongdeunVillage/General/assets/162940027/d6feaf70-7dcb-4554-84b5-574bec98a369)
 
  * 기타
    - 재건축에서 중요한 사항

@@ -7,8 +7,8 @@
    - 간담회에서 설명될 세부 사항: 1. 특별법 기반의 통합 재건축 효과 2. 선도지구 공모를 위한 방법
 
  * 간담회 준비
-   - 장소 관련: 처음에 학교 및 교회 등을 대관하려 했으나 거절 당하고, 전원마을의 카페(카페써밋)을 빌렸음.
-   - 비용 관련: 대관 비용이 발생.(22만원) 자발적 후원으로 (240327 기준) 82만원 후원받음. (입출금 관련 정리: https://docs.google.com/spreadsheets/d/1tvdELttk8pUE-P3_Lp48-5zanfc5uWR3_a7A-0QmGEg/edit#gid=0)
+   - 장소 관련: 처음에 학교 및 교회 등을 대관하려 했으나 거절 당하고, 전원마을의 카페(카페써밋)을 대관함
+   - 비용 관련: 대관 비용이 발생(22만원) → 자발적 후원으로 (240401 기준) 95만원 후원받음 (입출금 관련 정리: https://docs.google.com/spreadsheets/d/1tvdELttk8pUE-P3_Lp48-5zanfc5uWR3_a7A-0QmGEg/edit#gid=0)
    - 오프라인 참석자 명단: 현재 총 65명 (https://docs.google.com/spreadsheets/d/1Me8X7uTApXMgREp2uBvR8JrdfXmIdxYUwh1NgI0gcEo/edit#gid=0)
    - 온라인 영상 송출: 한정된 장소로 인해 참석이 어려운 소유주를 위해 줌으로도 송출할 계획(방송 장비 상황 상 현장만큼 전달력은 조금 떨어질 수 있음, 최대한 잘 전달되게 해보겠음)
    - 단지별 입대의 컨택
@@ -20,11 +20,14 @@
    - 설명자료: [주민 간담회_배포용.pdf](https://github.com/JeongdeunVillage/General/files/14818659/_.pdf)
    - 원본영상: 유투브 링크 업데이트 예정
    - 질의응답 정리 (요약 및 원본): [주민간담회_질의응답 정리.pdf](https://github.com/JeongdeunVillage/General/files/14818661/_.pdf)
+   - 간담회 사진
+     - ![KakaoTalk_20240401_111356856](https://github.com/JeongdeunVillage/General/assets/162940027/0a7b6ccf-ce40-44b8-a420-f09c51277b15)
+     - ![KakaoTalk_20240401_111356856_01](https://github.com/JeongdeunVillage/General/assets/162940027/5a581932-a5e7-4ab5-8c4f-2597c60eea21)
 
  * 기타
    - 재건축에서 중요한 사항
      - 단지별 재건축 추진 위원회 설립
-     - 동의율: 각 단지별로 소유주를 모아 재건축 찬성 동의율을 올려야함
+     - 동의율 확보: 각 단지별로 소유주를 모아 재건축 찬성 동의율을 올려야함
    - 단지별로 카톡방이 따로 있는 이유
      - 8개 단지별 소유주 카톡방이며, 단지별 소유주끼리 우선 모이는게 중요하다고 판단함.
      - 8개 단지별 소유주 카톡방을 홍보하기 위한 안내문 작성함.
